@@ -21,5 +21,8 @@
     <ClInclude Include="__vm\.AUTO_ADC_12V.vsarduino.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="__vm\.ADC_12V.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
